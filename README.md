@@ -5,9 +5,9 @@ Desenvolvedor em formação, construindo projetos com Java, JavaScript, Python, 
 ## Projetos em destaque
 
 - [Laboratório de Programação](https://github.com/felipeirah/LABORATORIODEPROGRAMACAO): exercícios em Java com POO e projetos no NetBeans.
-- [Laboratório de CI/CD](https://github.com/felipeirah/lab_ci_cd): testes automatizados em Python com GitHub Actions.
-- [Gestão de Configuração](https://github.com/felipeirah/-lab-gestao-configuracao): práticas de Git e GitHub.
-- [Sistema de Cadastro de Alunos](https://github.com/felipeirah/atividadejavascript): aplicação web em JavaScript.
+- [Laboratório de CI/CD](https://github.com/felipeirah/lab-ci-cd): testes automatizados em Python com GitHub Actions.
+- [Gestão de Configuração](https://github.com/felipeirah/lab-gestao-configuracao): práticas de Git e GitHub.
+- [Sistema de Cadastro de Alunos](https://github.com/felipeirah/cadastro-alunos-javascript): aplicação web em JavaScript.
 
 ## Tecnologias
 
